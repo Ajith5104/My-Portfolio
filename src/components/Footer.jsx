@@ -111,7 +111,7 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-gray-500 flex items-center gap-1.5 flex-wrap justify-center">
             © {new Date().getFullYear()} Ajith M. Built with
-            using React & 
+            using React
           </p>
 
           {/* Back to top */}
