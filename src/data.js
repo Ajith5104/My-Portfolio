@@ -61,7 +61,7 @@ export const projects = [
     category: "WEB-APPS",
     github: "https://github.com/Ajith5104/NutriMind-AI",
     live: "https://nutri-mind-ai-48f7.vercel.app/",
-    img: "./assets/projectimg/NutriMind.jpg",
+    img: "/projectimg/NutriMind.jpg",
   },
   {
     id: 2,
@@ -72,7 +72,7 @@ export const projects = [
     category: "WEB-APPS",
     github: "https://github.com/Ajith5104/greensCart",
     live: "https://github.com/Ajith5104/greensCart",
-    img: "./assets/projectimg/greensCart.jpg"  },
+    img: "/projectimg/greensCart.jpg"  },
       {
     id: 3,
     title: "Tourism-Website",
@@ -82,7 +82,7 @@ export const projects = [
     category: "WEBSITE",
     github: "https://github.com/Ajith5104/Tourism-Website",
     live: "https://github.com/Ajith5104/Tourism-Website/",
-    img: "./assets/projectimg/Tourism.jpg",
+    img: "/projectimg/Tourism.jpg",
   },
   {
     id: 4,
@@ -93,7 +93,7 @@ export const projects = [
     category: "WEB-APPS",
     github: "https://github.com/Ajith5104/Weather-Forecasting-Web-App",
     live: "https://weather-live-application.netlify.app/",
-    img: "./assets/projectimg/weather.jpg",
+    img: "/projectimg/weather.jpg",
   },
 
 ];
