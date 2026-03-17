@@ -104,3 +104,36 @@ export const stats = [
   { label: "GitHub Stars", value: "500+", icon: "⭐" },
   { label: "Happy Clients", value: "20+", icon: "🤝" },
 ];
+
+export const education = [
+  {
+    degree: "Master's in Computer Science",
+    institution: "Annamalai University",
+    logo: "https://upload.wikimedia.org/wikipedia/en/2/2a/Annamalai_University_logo.png", // Example logo
+    duration: "2022 – 2024",
+    // location: "Your Location",
+    cgpa: "7.9/10",
+    description: "Completed a Master of Science in Computer Science, building a strong foundation in software development, data structures, and database management. Strengthened problem-solving skills while gaining a solid understanding of scalable application design and core software engineering principles.",
+    // achievements: [
+    //   "Secured 1st place in University Hackathon",
+    //   "Completed certification in Full-Stack Development",
+    //   "Academic excellence award for consistent performance"
+    // ],
+    // coursework: ["Web Development", "Databases", "Software Engineering", "Data Structures", "Algorithms"]
+  },
+  {
+    degree: "Bachelor's in Computer Science",
+    institution: "Thiruvalluvar University",
+    logo: "https://upload.wikimedia.org/wikipedia/en/0/0c/TUemblem.png?_=20200629155755", // Example logo
+    duration: "2019 – 2022",
+    // location: "Your Location",
+    cgpa: "8.4/10",
+    description: "Completed a Bachelor of Science in Computer Science with a strong foundation in programming, algorithms, and database systems.Built practical skills through academic projects focused on web development and software design. Developed strong problem-solving abilities and a solid understanding of core software development concepts.",
+    // achievements: [
+    //   "Secured 1st place in University Hackathon",
+    //   "Completed certification in Full-Stack Development",
+    //   "Academic excellence award for consistent performance"
+    // ],
+    // coursework: ["Web Development", "Databases", "Software Engineering", "Data Structures", "Algorithms"]
+  }
+];
