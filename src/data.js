@@ -8,7 +8,7 @@ export const personalInfo = {
   location: "Chennai, TamilNadu",
   bio: `Completed internships as a Full Stack Developer and Python Developer, gaining hands-on experience in developing and maintaining scalable web applications. Built responsive user interfaces and implemented back-end functionality using React.js, Node.js, Express.js, HTML, CSS, and Bootstrap. Collaborated with developers to debug, optimize, and improve application performance while following clean coding practices. Gained practical exposure to real-world project development, databases (MongoDB, SQL), version control with Git/GitHub, and the software development life cycle (SDLC), strengthening my ability to build efficient and maintainable software solutions.`,
   avatar: "/hero.png",
-  resumeUrl: "https://drive.google.com/file/d/17o1I-rJOK9nkXJ1u_ZAXD464Ev6XqwmY/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/1G5jqfO8mI4JDAbX2w5mwD1X206dnoM3m/view?usp=sharing",
   roles: [
     "Full-Stack Developer",
     "Vibe coding Developer",
@@ -114,12 +114,6 @@ export const education = [
     // location: "Your Location",
     cgpa: "7.9/10",
     description: "Completed a Master of Science in Computer Science, building a strong foundation in software development, data structures, and database management. Strengthened problem-solving skills while gaining a solid understanding of scalable application design and core software engineering principles.",
-    // achievements: [
-    //   "Secured 1st place in University Hackathon",
-    //   "Completed certification in Full-Stack Development",
-    //   "Academic excellence award for consistent performance"
-    // ],
-    // coursework: ["Web Development", "Databases", "Software Engineering", "Data Structures", "Algorithms"]
   },
   {
     degree: "Bachelor's in Computer Science",
