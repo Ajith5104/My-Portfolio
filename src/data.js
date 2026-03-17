@@ -11,7 +11,7 @@ export const personalInfo = {
   resumeUrl: "https://drive.google.com/file/d/17o1I-rJOK9nkXJ1u_ZAXD464Ev6XqwmY/view?usp=sharing",
   roles: [
     "Full-Stack Developer",
-    "Vibe coding Developer",
+    "Vibe code Developer",
     "React Developer",
     "SQL Developer",
   ],
