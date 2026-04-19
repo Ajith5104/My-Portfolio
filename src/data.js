@@ -8,7 +8,7 @@ export const personalInfo = {
   location: "Chennai, TamilNadu",
   bio: `Completed internships as a Full Stack Developer and Python Developer, gaining hands-on experience in developing and maintaining scalable web applications. Built responsive user interfaces and implemented back-end functionality using React.js, Node.js, Express.js, HTML, CSS, and Bootstrap. Collaborated with developers to debug, optimize, and improve application performance while following clean coding practices. Gained practical exposure to real-world project development, databases (MongoDB, SQL), version control with Git/GitHub, and the software development life cycle (SDLC), strengthening my ability to build efficient and maintainable software solutions.`,
   avatar: "/hero.png",
-  resumeUrl: "https://drive.google.com/file/d/1G5jqfO8mI4JDAbX2w5mwD1X206dnoM3m/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/1jclbKWcS-7WM9DahzCo-k6Gc54Kgn5mP/view?usp=sharing",
   roles: [
     "Full-Stack Developer",
     "Vibe code Developer",
