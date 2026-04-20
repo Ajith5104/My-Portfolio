@@ -42,7 +42,7 @@ export const skills = [
   { name: "MongoDB", category: "Backend", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
   { name: "Git", category: "Backend", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
   { name: "GitHub", category: "Backend", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
-  { name: "Vercel", category: "Backend", icon: "https://1000logos.net/wp-content/uploads/2024/08/Vercel-Logo.png" },
+  { name: "Vercel", category: "Backend", icon: "https://www.svgrepo.com/show/354513/vercel-icon.svg" },
 
   // AI-Tools
   { name: "Antigravity", category: "AI-Tools", icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-LP15Mr8fskmgPrzaMxLoO3GLfnzerSMckg&s" },
