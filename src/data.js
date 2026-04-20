@@ -42,6 +42,7 @@ export const skills = [
   { name: "MongoDB", category: "Backend", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
   { name: "Git", category: "Backend", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
   { name: "GitHub", category: "Backend", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
+  { name: "Vercel", category: "Backend", icon: "https://1000logos.net/wp-content/uploads/2024/08/Vercel-Logo.png" },
 
   // AI-Tools
   { name: "Antigravity", category: "AI-Tools", icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-LP15Mr8fskmgPrzaMxLoO3GLfnzerSMckg&s" },
@@ -60,7 +61,7 @@ export const projects = [
     tags: ["React","Replicate API","Cloudinary API","Node.js","Express.js","MongoDB","Git","GitHub","Vercel"],
     category: "WEB-APPS",
     github: "https://github.com/Ajith5104/FitFusion-AI",
-    live: "https://fit-fusion-ai-exa6.vercel.app/",
+    live: "https://fit-fusion-ai-kappa.vercel.app/",
     img: "/projectimg/FitFusion.jpg",
   },
   {
@@ -71,7 +72,7 @@ export const projects = [
     tags: ["React","OpenAI API","Node.js","Express.js","MongoDB","REST API","Git","GitHub","Vercel"],
     category: "WEB-APPS",
     github: "https://github.com/Ajith5104/NutriMind-AI",
-    live: "https://nutri-mind-ai-48f7.vercel.app/",
+    live: "https://nutri-mind-ai-j4pi.vercel.app",
     img: "/projectimg/NutriMind.jpg",
   },
   {
