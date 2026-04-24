@@ -72,8 +72,8 @@ export const projects = [
     tags: ["React","OpenAI API","Node.js","Express.js","MongoDB","REST API","Git","GitHub","Vercel"],
     category: "WEB-APPS",
     github: "https://github.com/Ajith5104/NutriMind-AI",
-    live: "https://nutri-mind-ai-j4pi.vercel.app",
-    img: "/projectimg/NutriMind.jpg",
+    live: "https://nutri-mind-ai-ojhd.vercel.app",
+    img: "/projectimg/nutrimind.png",
   },
   {
     id: 3,
