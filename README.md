@@ -2,15 +2,12 @@
 
 A premium, high-performance personal portfolio built with **React 19**, **Framer Motion**, and **Tailwind CSS**. Designed to showcase projects, skills, and developer experience with a focus on modern aesthetics and smooth user interactions.
 
-<<<<<<< HEAD
-=======
-![Portfolio Preview](/hero.png)
+--------------- HEAD ------------------
 
->>>>>>> e6d28a7 (complete the project)
 ## ✨ Key Features
 
 - **💎 Premium Design**: Sleek dark mode interface with glassmorphism, glowing accents, and modern typography.
-- **📱 Fully Responsive**: Seamless experience across mobile, tablet, lapotops, and large desktop screens.
+- **📱 Fully Responsive**: Seamless experience across mobile, tablet, laptops, and large desktop screens.
 - **🎭 Motion Experience**: Advanced reveal animations, micro-interactions, and hover effects using Framer Motion.
 - **📂 Categorized Expertise**: Skills organized into Frontend, Backend, and AI-Tools with high-quality icons.
 - **🛠️ Filterable Project Gallery**: Categorized project showcase (WEB-APPS, WEBSITE) with dynamic filtering.
